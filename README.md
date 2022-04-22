@@ -1,17 +1,19 @@
 ### Hi there 👋
 
+My name is Anastasia, or Nastia for short. 
+
 ## 🌱 I’m currently learning ...
 
-- Front-end development @Yandex Practicum
-- React.js at @Scrimba
+- Front-end development @[Yandex Practicum](https://practicum.com/)
+- React.js at @[Scrimba](https://scrimba.com/)
 
 ## 🔭 I’m currently working on ...
 
-- publishing a digital magazine about yoga & mindfulness, [Shut Up & Yoga](https://shutupandyoga.com/)
+- Publishing a digital magazine about yoga & mindfulness, [Shut Up & Yoga](https://shutupandyoga.com/)
 
-## 👯 I’m looking to collaborate on ...
+## 🌎 I’m looking to collaborate on ...
 
-
+- Coding projects with a good cause (talk to me if you're working with animal rights 🐷 or environment!)
 
 ## 📫 How to reach me: ...
 
