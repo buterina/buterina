@@ -4,7 +4,7 @@ My name is Anastasia, or Nastia for short.
 
 ### 🔥 My tech stack:
 
-<img src="img/html-buterina.svg" alt="HTML logo" width="50" height="50"><img src="img/js-buterina.svg" alt="JS Logo" width="50" height="50"><img src="img/css-buterina.svg" alt="CSS Logo" width="50" height="50"><img src="img/react-buterina.svg" alt="React Logo" width="50" height="50"><img src="img/figma-buterina.svg" alt="Figma Logo" width="50" height="50"><img src="img/git-buterina.svg" alt="Git Logo" width="50" height="50"><img src="img/vs-code-buterina.svg" alt="VS Code logo" width="50" height="50"><img src="img/webpack-buterina.svg" alt="Webpack logo" width="52" height="52"><img src="img/node-js-buterina.png" alt="Node js logo" width="85" height="52">
+<img src="img/html-buterina.svg" alt="HTML logo" width="50" height="50"><img src="img/js-buterina.svg" alt="JS Logo" width="50" height="50"><img src="img/css-buterina.svg" alt="CSS Logo" width="50" height="50"><img src="img/react-buterina.svg" alt="React Logo" width="50" height="50"><img src="img/figma-buterina.svg" alt="Figma Logo" width="50" height="50"><img src="img/git-buterina.svg" alt="Git Logo" width="50" height="50"><img src="img/vs-code-buterina.svg" alt="VS Code logo" width="50" height="50"><img src="img/webpack-buterina.svg" alt="Webpack logo" width="52" height="52"><img src="img/node-js-buterina.png" alt="Node.js logo" width="85" height="52"><img src="img/mongodb-buterina.png" alt="MongoDB logo" width="193" height="52">
 
 
 
