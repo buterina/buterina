@@ -17,9 +17,9 @@ My name is Anastasia, or Nastia for short.
 
 - Publishing a digital magazine about yoga & mindfulness, [Shut Up & Yoga](https://shutupandyoga.com/)
 
-## 🌎 I’m looking to collaborate on ...
+## 🔥 I’m looking to collaborate on ...
 
-- Coding projects with a good cause (talk to me if you're working with animal rights 🐷 or environment!)
+- Coding projects with a good cause (talk to me if you're working in ed tech or climate tech! 🌎)
 
 ## 📫 How to reach me: 
 
